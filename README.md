@@ -19,13 +19,13 @@ Install labelImg to label images
     pip install labelImg && labelImg
 To label images:
 
- 1> Click on Open Dir and select the images folder.
+ 1) Click on Open Dir and select the images folder.
  
- 2> Click on Change Save Dir and select the same images folder.
+ 2) Click on Change Save Dir and select the same images folder.
  
- 3> Now select the image from right panel and press w to start labelling.
+ 3) Now select the image from right panel and press w to start labelling.
  
- 4> Drag the cursor on the portion to be labelled and save it.
+ 4) Drag the cursor on the portion to be labelled and save it.
  
 ## Step 3 : Split the dataset into train and test
 Create train and test folder inside images folder and tranfer 80-90% images and corresponding xml file of each category(if more than one type of image link hand, foot, etc.) in train folder and rest in test folder.
