@@ -27,7 +27,7 @@ To label images:
  
  4) Drag the cursor on the portion to be labelled and save it.
  
-## Step 3 : Split the dataset into train and test
+## Step 4 : Split the dataset into train and test
 Create train and test folder inside images folder and tranfer 80-90% images and corresponding xml file of each category(if more than one type of image link hand, foot, etc.) in train folder and rest in test folder.
  
        
