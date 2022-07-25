@@ -1,7 +1,8 @@
 # Project1 : Sign Language Detector
 ### This project is all about detecting some of the basic hand signs made by people who can't hear or can't speak.
 ## Step 1 : Installing required tools for Object Detection
-Watch the youtube video by Nicholas Renotte to get the in-depth idea about the installation.\ Link - https://youtu.be/dZh_ps8gKgs
+Watch the youtube video by Nicholas Renotte to get the in-depth idea about the installation.
+Link - https://youtu.be/dZh_ps8gKgs
 ## Step 2 : Downloading models from Tensorflow Model Zoo
 Go to root directory and run the following command in cmd.
 
@@ -28,6 +29,6 @@ To label images:
  4) Drag the cursor on the portion to be labelled and save it.
  
 ## Step 4 : Split the dataset into train and test
-Create train and test folder inside images folder and tranfer 80-90% images and corresponding xml file of each category(if more than one type of image link hand, foot, etc.) in train folder and rest in test folder.
+Create train and test folder inside images folder and transfer 70-80% images and corresponding xml file of each category(if more than one type of image link hand, foot, etc.) in train folder and rest in test folder.
  
        
