@@ -1,5 +1,5 @@
 # Project1 : Sign Language Detector
-### This project is all about detecting some of the basic hand signs made by people who can't hear or can't speak.
+### This Machine Learning Project is all about detecting some of the basic hand signs made by people who can't hear or can't speak.
 ## Step 1 : Installing required tools for Object Detection
 Watch the youtube video by Nicholas Renotte to get the in-depth idea about the installation.
 Link - https://youtu.be/dZh_ps8gKgs
